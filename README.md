@@ -1,8 +1,10 @@
 # Bank-Management-System
 Bank Management System is a full fledged project created using Java and SQL, the database integration is done using JDBC.
 
-
-This Bank Management System encapsulates the core functionality essential for modern banking operations. Its Java-based architecture ensures platform independence, making it deployable across various systems. The SQL integration provides a robust foundation for managing and storing sensitive customer information securely. The graphical user interface enhances user interaction, making the system accessible and user-friendly.
+This Bank Management System encapsulates the core functionality essential for modern banking operations. 
+Its Java-based architecture ensures platform independence, making it deployable across various systems. 
+The SQL integration provides a robust foundation for managing and storing sensitive customer information securely. 
+The graphical user interface enhances user interaction, making the system accessible and user-friendly.
 
 Features:
 Account Management: Create, update, and delete customer accounts.
